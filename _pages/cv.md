@@ -1,8 +1,8 @@
 ---
-layout: cv
+layout: default
 permalink: /resume/
 title: resume
 nav: true
 nav_order: 4
-cv_pdf: res.pdf
+redirect_to: /assets/pdf/res.pdf
 ---
