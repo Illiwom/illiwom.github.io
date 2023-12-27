@@ -2,7 +2,7 @@
 layout: page
 permalink: /courses/
 title: courses
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I've taken at Carnegie Mellon University.
 nav: true
 nav_order: 6
 ---
